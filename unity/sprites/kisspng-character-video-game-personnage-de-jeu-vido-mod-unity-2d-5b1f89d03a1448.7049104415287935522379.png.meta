@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 496a17b3cc7382345b4318d6b829011a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_0
+    21300002: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_1
+    21300004: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_2
+    21300006: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_3
+    21300008: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_4
+    21300010: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_5
+    21300012: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_6
+    21300014: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_7
+    21300016: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_8
+    21300018: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_9
+    21300020: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_10
+    21300022: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_11
+    21300024: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_12
+    21300026: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_13
+    21300028: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_14
+    21300030: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_15
+    21300032: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_16
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 867
+        width: 39
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25c385ff8d95234e8338414b8dc6e24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 824
+        width: 19
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00dce85e02778d4f92aadd38bd1223f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 867
+        width: 39
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323e289f9f17f0244a9cb1bc3cb8eb3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 824
+        width: 19
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d701836d93f3cfe44b066a4de3d02178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_4
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 867
+        width: 39
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589448ffc4bf8254190df6b6a86bf4cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_5
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 824
+        width: 19
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f765f95b377289d429b4f31e7e691341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_6
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 852
+        width: 30
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e686e7177411a940b39e278c75ef5e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_7
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 572
+        width: 217
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69770fe8b24da684da4729c3ae15e859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 563
+        width: 217
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787fcc5be40c9934a81a1db07c9adc25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 563
+        width: 217
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad92b88d1374fe4c84bb2b88a2c58f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_10
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 563
+        width: 217
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578a56c110644c6488e7cc0d7c10186f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 108
+        width: 187
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da8dd768d9b67e4b9ed7cb0c3f8e0ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 108
+        width: 187
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d14489364a9764ba28a42fc88c22f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_13
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 108
+        width: 186
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d9590fe070182439bdd1f22316aa3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_14
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 381
+        width: 39
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9ff7a7a3263104097b779f48526825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_15
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 338
+        width: 19
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57f6cff020c9c549a78f8a9759e6231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-video-game-personnage-de-jeu-vido-mod-unity-2d-5b1f89d03a1448.7049104415287935522379_16
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 76
+        width: 217
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33dfd52a57d9564e990f7289545c8fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 21773e684e558d2468426b473f6b28d5
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
